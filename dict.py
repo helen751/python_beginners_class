@@ -27,6 +27,7 @@ scores = {
     "Frank":{"Math":50,"Phy":40},
     "victor":{"Math":77,"Phy":20}
 }
+
 print(scores["Frank"]["Math"])
 
 #accessing the nested dictionaries with for loop
